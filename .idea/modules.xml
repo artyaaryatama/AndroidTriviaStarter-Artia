@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidTriviaStarter-Artia.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidTriviaStarter-Artia.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidTriviaStarter-Artia.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidTriviaStarter-Artia.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tugas_Codelab_2_-_Navigation.iml" filepath="$PROJECT_DIR$/.idea/modules/Tugas_Codelab_2_-_Navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tugas_Codelab_2_-_Navigation.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tugas_Codelab_2_-_Navigation.app.iml" />
     </modules>
   </component>
 </project>
