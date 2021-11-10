@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tugas_Codelab_2_-_Navigation.iml" filepath="$PROJECT_DIR$/.idea/modules/Tugas_Codelab_2_-_Navigation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tugas_Codelab_2_-_Navigation.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tugas_Codelab_2_-_Navigation.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tugas_Codelab_3_-_Parsing.iml" filepath="$PROJECT_DIR$/.idea/modules/Tugas_Codelab_3_-_Parsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tugas_Codelab_3_-_Parsing.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tugas_Codelab_3_-_Parsing.app.iml" />
     </modules>
   </component>
 </project>
